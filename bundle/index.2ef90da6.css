@@ -1,0 +1,16 @@
+.test-com {
+  font-size: 18px; }
+  .test-com a {
+    color: #3e999f; }
+
+::-webkit-input-placeholder {
+  color: #ccc; }
+
+::-moz-placeholder {
+  color: #ccc; }
+
+:-ms-input-placeholder {
+  color: #ccc; }
+
+::placeholder {
+  color: #ccc; }
